@@ -1,5 +1,4 @@
-## Hello everyone
-
+<h1 align="center">Hello everyone </h1>
 
 <p align="center">
   <img src="https://github.com/iLock-Inteligent-Door-Lock/iLock-Inteligent-Door-Lock/blob/main/obraz_2023-07-19_210359785.png">
