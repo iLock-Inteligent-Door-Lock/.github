@@ -10,3 +10,4 @@
  - [Bartosz Leśniak](https://github.com/BartoszLesniak333)
  - [Michał Łazarz](https://github.com/miq312)
 
+<h1 align="center">About a project </h1>
