@@ -5,12 +5,8 @@
   <img src="https://github.com/iLock-Inteligent-Door-Lock/iLock-Inteligent-Door-Lock/blob/main/obraz_2023-07-19_210359785.png">
 </p>
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
-## Acknowledgements
+<h1 align="center">Hello everyone </h1>
+- This project is creating by two Automation and Robotics students 
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
