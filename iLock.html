@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello Everyone Animation</title>
+    <style>
+        #helloText {
+            text-align: center;
+            white-space: nowrap;
+            overflow: hidden;
+            animation: revealText 4s linear;
+        }
+
+        @keyframes revealText {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1 id="helloText">Hello everyone</h1>
+</body>
+</html>
