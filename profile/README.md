@@ -1,33 +1,5 @@
-<h1 align="center">Hello everyone </h1>
-name: Dynamic Hello
-
-on:
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Set up Hello
-        run: echo "hello: 'Hello, world!'" >> $GITHUB_ENV
-
-      - name: Replace {{ hello }} in README
-        run: |
-          sed -i "s/{{ hello }}/$HELLO/g" README.md
-
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Update README with dynamic hello"
-          git push
+<h1 align="center"></h1>
+ <a href="https://git.io/typing-svg"><img src="file:///C:/Users/barto/OneDrive/Pulpit/iLock.html" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://github.com/iLock-Inteligent-Door-Lock/iLock-Inteligent-Door-Lock/blob/main/obraz_2023-07-19_210359785.png">
