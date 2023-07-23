@@ -14,28 +14,28 @@
     <summary><h1>About a project 📚</h1></summary>
     <p align="left">
       
-    </details>
+</details>
 <details> 
     <summary><h1>Photos 📷</h1></summary>
     <p align="left">
       
-    </details>
+</details>
 <details> 
     <summary><h1>Technologies Used 🤖</h1></summary>
     <p align="left">
       
-    </details>
+</details>
 <details> 
     <summary><h1>Status 📈</h1></summary>
     <p align="left">
       
-    </details>
+</details>
 <details> 
     <summary><h1>Credits and Inspirations 🏅</h1></summary>
     <p align="left"> 
-    </details>
+</details>
 <details> 
     <summary><h1>License 🎯</h1></summary>
     <p align="left">
       
-    </details>
+</details>
