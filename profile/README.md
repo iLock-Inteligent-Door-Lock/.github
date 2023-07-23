@@ -1,5 +1,5 @@
 <h1 align="center"></h1>
- <a href="https://git.io/typing-svg"><img src="file:///C:/Users/barto/OneDrive/Pulpit/iLock.html" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://github.com/iLock-Inteligent-Door-Lock/.github/blob/main/iLock.html" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://github.com/iLock-Inteligent-Door-Lock/iLock-Inteligent-Door-Lock/blob/main/obraz_2023-07-19_210359785.png">
