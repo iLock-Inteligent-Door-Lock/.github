@@ -10,4 +10,21 @@
  - [Bartosz Leśniak](https://github.com/BartoszLesniak333)
  - [Michał Łazarz](https://github.com/miq312)
 
-<h1 align="center">About a project </h1>
+<details> 
+    <summary><h1>About a project 📚</h1></summary>
+    <p align="left">
+<details> 
+    <summary><h1>Photos 📷</h1></summary>
+    <p align="left">
+<details> 
+    <summary><h1>Technologies Used 🤖</h1></summary>
+    <p align="left">
+<details> 
+    <summary><h1>Status 📈</h1></summary>
+    <p align="left">
+<details> 
+    <summary><h1>Credits and Inspirations 🏅</h1></summary>
+    <p align="left"> 
+<details> 
+    <summary><h1>License 🎯</h1></summary>
+    <p align="left">
